@@ -5,11 +5,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Red Hill Group</title>
 <link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-theme.min.css" rel="stylesheet">
+<script src="js/jquery.js"></script>
+<script src="js/handlebars.js"></script>
+<script src="js/ember.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/app.js"></script>
+<script src="js/router.js"></script>
 </head>
 <body>
-<h1>Hello, World!</h1>
-
-<script src="js/jquery.js"></script>
-<script src="js/bootstrap.min.js"></script>
+<script data-template-name="application" type="text/x-handlebars">
+<!-- Page template here -->
+{{outlet}}
+</script>
+<script data-template-name="index" type="text/x-handlebars">
+</script>
 </body>
 </html>
