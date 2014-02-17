@@ -1,4 +1,5 @@
 App.Router.map(function() {
         this.resource('index',{ path: '/' });
-        //this.route('templatenamegoeshere');
+        this.route('docs');
+        this.route('sign');
 });
