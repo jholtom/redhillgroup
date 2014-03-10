@@ -67,7 +67,7 @@ Our opposition to the Red Hill Road location echoes a number of the concerns voi
 </script>
 <script data-template-name="docs" type="text/x-handlebars">
 <div class="inner cover">
-    <h1 class="cover-heading">Documents</h1>
+    <h1 class="cover-heading"><a href="/docs/">Documents</a></h1>
     <div class="bkg">
         <p class="lead">
         <ul>
