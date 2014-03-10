@@ -70,12 +70,12 @@ Our opposition to the Red Hill Road location echoes a number of the concerns voi
     <h1 class="cover-heading"><a href="/docs/">Documents</a></h1>
     <div class="bkg">
         <p class="lead">
-        &rarr;<a href="/docs/Application documents submitted by Loudoun Water">Application documents submitted by Loudoun Water</a>
-        &rarr;<a href="/docs/Other Loudoun Water documents">Other Loudoun Water documents</a>
-        &rarr;<a href="/docs/History of Red Hill Plantation and Allen Family">History of Red Hill Plantation and Allen Family</a>
-        &rarr;<a href="/docs/1993 Comprenesive Plan and other County documents">1993 Comprehensive Plan and other County documents</a>
-        &rarr;<a href="/docs/Loudoun County Zoning Ordinance">Loudoun County Zoning Ordinance</a>
-        &rarr;<a href="/docs/Balloon Test Photographs">Balloon Test Photographs</a>
+        &rarr; <a href="/docs/Application documents submitted by Loudoun Water">Application documents submitted by Loudoun Water</a><br>
+        &rarr; <a href="/docs/Other Loudoun Water documents">Other Loudoun Water documents</a><br>
+        &rarr; <a href="/docs/History of Red Hill Plantation and Allen Family">History of Red Hill Plantation and Allen Family</a><br>
+        &rarr; <a href="/docs/1993 Comprenesive Plan and other County documents">1993 Comprehensive Plan and other County documents</a><br>
+        &rarr; <a href="/docs/Loudoun County Zoning Ordinance">Loudoun County Zoning Ordinance</a><br>
+        &rarr; <a href="/docs/Balloon Test Photographs">Balloon Test Photographs</a><br>
         </p>
     </div>
     <p class="lead">
