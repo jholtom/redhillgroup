@@ -29,7 +29,7 @@
               <h3 class="masthead-brand">The Red Hill Group</h3>
               <ul class="nav masthead-nav">
                 <li id="home-link" class="active"><a href="#">Home</a></li>
-                <li id="doc-link" ><a href="/#/docs">Documentation</a></li>
+                <li id="doc-link" ><a href="/#/docs">Documents</a></li>
                 <li id="faq-link"><a href="/#/faq">FAQs</a></li>
                 <li id="sign-link"><a href="/#/sign">What Can I Do?</a></li>
               </ul>
@@ -67,7 +67,7 @@ Our opposition to the Red Hill Road location echoes a number of the concerns voi
 </script>
 <script data-template-name="docs" type="text/x-handlebars">
 <div class="inner cover">
-    <h1 class="cover-heading">Documentation</h1>
+    <h1 class="cover-heading">Documents</h1>
     <div class="bkg">
         <p class="lead">
         <ul>
